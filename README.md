@@ -26,7 +26,7 @@
     <a href = "https://www.instagram.com/kamilly.santana_/">
       <img width="26" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
-    <a href = "https://www.linkedin.com/in/Kamilly-Ferreira/">
+    <a href = "https://www.linkedin.com/in/kamilly-ferreira-514751269/">
     <img width="26" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 </div>
@@ -47,5 +47,5 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alexandre-milim}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KamillySantana}/count.svg" /></p> 
 <br></div>
