@@ -35,7 +35,7 @@
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 
-![PyCharm](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![PyCharm](https://img.shields.io/badge/-Py%Charm%20Code-0D1117?style=for-the-badge&logo=Py-Charm-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 
 ![Web Storm](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 
