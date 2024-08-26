@@ -16,7 +16,7 @@
     <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fpng%2F27127463-javascript-logotipo-png-javascript-icone-transparente-png&psig=AOvVaw212oVHfGZtqeUzyHPTwY0e&ust=1724765420159000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCKCJpIbikogDFQAAAAAdAAAAABAE.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div> 
  
