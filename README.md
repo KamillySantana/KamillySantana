@@ -35,9 +35,9 @@
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 
-![PyCharm]([https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2F4-tips-to-get-the-best-out-of-pycharm-99dd5d01932d&psig=AOvVaw01npla7OBYgw6xzmy3a3oW&ust=1724766013647000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCOjLoKHkkogDFQAAAAAdAAAAABAE))&nbsp;
+![PyCharm](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 
-![Web Storm]([https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117](https://www.google.com/url?sa=i&url=https%3A%2F%2Faaron-janes.medium.com%2Fwhy-webstorm-is-the-most-productive-ide-for-javascript-development-3223918b197a&psig=AOvVaw3Kr2rLlWpQL_lQhR6MDRzK&ust=1724765984390000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCOCunZPkkogDFQAAAAAdAAAAABAE))&nbsp;
+![Web Storm](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
