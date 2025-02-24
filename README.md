@@ -25,7 +25,7 @@
     <a href = "https://www.instagram.com/kamilly.santana_/">
       <img width="26" src="https://github.com/LuigiGf/LuigiGf/raw/main/instagram.png">
     </a>
-    <a href = "https://www.linkedin.com/in/kamilly-ferreira-514751269/">
+    <a href = "linkedin.com/in/kamilly-santana">
     <img width="26" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
     </a>
 </div>
